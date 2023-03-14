@@ -1,0 +1,5 @@
+#!/bin/bash
+alias I_am_creating_an_alias=ls
+
+I_am_creating_an_alias
+
